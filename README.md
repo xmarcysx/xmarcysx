@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">I'm Marcin, student Information Technology at Silesian University in Poland. At spare time I am an ambitious and self-taught web developer.</h3>
+<h3 align="center">I am 23 years old and I am computer science student at Silesian University in Poland. I specialize in web application design. At spare time I am learning web development from courses, videos, by writing code and reading. I am selfmade and programming is my passion. One of my character traits is that I can't sleep until I solve a problem.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
